@@ -1,0 +1,8 @@
+db:
+  url: jdbc:postgresql://localhost:5432/task
+  user: cleverbank
+  password: jmXzj3eV
+  maxpoolsize: 6
+  driver: org.postgresql.Driver
+job:
+  percents: 1
